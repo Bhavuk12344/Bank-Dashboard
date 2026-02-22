@@ -127,4 +127,3 @@ _Add dashboard screenshots here_
 ## 👤 Author
 
 Bhavuk Mehta  
-Aspiring Data Analyst | Power BI Enthusiast | Business Intelligence Developer
